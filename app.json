@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-realestate",
-    "slug": "react-native-realestate",
+    "name": "realestate",
+    "slug": "realestate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactnativerealestate",
+    "scheme": "realestate",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
